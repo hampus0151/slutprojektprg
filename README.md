@@ -1,12 +1,12 @@
 # slutprojekt tic tac toe med databas
 
 1. Ska skapa ett 5 i rad med en databas.
-beskrivning: 
-1 spelare mot datorn
-datorn randomisar drag
-spelarens namn, hur lång tid matchen tog, 
-om man vann eller förlorade, antal drag, 
-datum när man spelade, sparas i databas
+beskrivning:   
+1 spelare mot datorn  
+datorn randomisar drag  
+spelarens namn, hur lång tid matchen tog,   
+om man vann eller förlorade, antal drag,    
+datum när man spelade, sparas i databas  
 
 
 1. Nedbrytning av problemet i sina olika beståndsdelar 
