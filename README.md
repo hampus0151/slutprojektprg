@@ -1,6 +1,6 @@
 # slutprojekt tic tac toe med databas
 
-1. Ska skapa ett 5 i rad med en databas.  
+1. Ska skapa ett 3 i rad med en databas.  
 beskrivning:   
 1 spelare mot datorn  
 datorn randomisar drag  
